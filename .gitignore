@@ -1,0 +1,4 @@
+*.o
+program
+test
+.DS_Store
